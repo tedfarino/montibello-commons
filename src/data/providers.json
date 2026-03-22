@@ -1,0 +1,328 @@
+[
+  {
+    "id": "pest-001",
+    "name": "Amy Daughtry Goeken",
+    "category": "Pest Control",
+    "type": "lead",
+    "recurring": true,
+    "request": "Quarterly pest control company needed",
+    "engagement": { "comments": 13 },
+    "priority": "high"
+  },
+  {
+    "id": "pest-002",
+    "name": "Claudia Faccone Bravener",
+    "category": "Pest Control",
+    "type": "lead",
+    "request": "Mouse exterminator + deep cleaner needed",
+    "engagement": { "comments": 10 }
+  },
+  {
+    "id": "pest-003",
+    "name": "Jenna Holland Peede",
+    "category": "Pest Control",
+    "type": "lead",
+    "urgent": true,
+    "request": "Raccoon in storage closet",
+    "engagement": { "comments": 17 }
+  },
+  {
+    "id": "pest-004",
+    "name": "Morgan Maples Peterson",
+    "category": "Pest Control",
+    "type": "lead",
+    "request": "Squirrel in attic",
+    "engagement": { "comments": 2 }
+  },
+  {
+    "id": "painting-001",
+    "name": "Kristy Elgart",
+    "category": "Painting",
+    "type": "lead",
+    "request": "Painter + popcorn ceiling removal + can lights",
+    "engagement": { "comments": 13 }
+  },
+  {
+    "id": "painting-002",
+    "name": "Kym Orsetti Furney",
+    "category": "Painting",
+    "type": "lead",
+    "request": "Drywall repair + paint",
+    "engagement": { "comments": 7 }
+  },
+  {
+    "id": "painting-003",
+    "name": "WOW 1 Day Painting",
+    "category": "Painting",
+    "type": "provider",
+    "recommended": true,
+    "source": "Neighbor recommendation"
+  },
+  {
+    "id": "handyman-001",
+    "name": "Chris Miller",
+    "category": "Handyman",
+    "type": "provider",
+    "email": "ccmiller634@gmail.com",
+    "recommended": true,
+    "source": "Multiple neighbor recommendations"
+  },
+  {
+    "id": "hvac-001",
+    "name": "Travis Crawford HVAC",
+    "category": "HVAC",
+    "type": "provider",
+    "website": "traviscrawfordhvac.com",
+    "recommended": true,
+    "source": "Kathy Bentz Cater",
+    "engagement": { "reactions": 6 },
+    "note": "Professional, thorough, doesn't upsell"
+  },
+  {
+    "id": "hvac-002",
+    "name": "Heron Heating & AC",
+    "category": "HVAC",
+    "type": "provider",
+    "address": "3817 Montibello St, Indian Trail, NC 28079",
+    "recommended": true,
+    "source": "Brennan Danile",
+    "note": "Very responsive, no BS service contracts"
+  },
+  {
+    "id": "hvac-003",
+    "name": "McClintock",
+    "category": "HVAC",
+    "type": "provider",
+    "note": "Mentioned alongside Travis Crawford"
+  },
+  {
+    "id": "landscaping-001",
+    "name": "Patrick Eudy Landscaping",
+    "category": "Landscaping",
+    "type": "provider",
+    "phone": "(704) 363-0097",
+    "recommended": true,
+    "source": "Adrienne Matthews",
+    "engagement": { "reactions": 10 },
+    "note": "AMAZING. Used his team for years. Does projects and mulch, not weekly service."
+  },
+  {
+    "id": "landscaping-002",
+    "name": "Ted (Michael Shea)",
+    "category": "Landscaping",
+    "type": "provider",
+    "website": "yap5kqC.com",
+    "engagement": { "reactions": 18, "comments": 9 },
+    "note": "Active in Facebook group, offering services"
+  },
+  {
+    "id": "landscaping-003",
+    "name": "Byron",
+    "category": "Landscaping",
+    "type": "provider",
+    "phone": "(980) 890-0349",
+    "services": ["Power washing", "gutter cleaning", "trash removal", "odd jobs"],
+    "available": "Today"
+  },
+  {
+    "id": "cleaning-001",
+    "name": "Tais/Brisola Cleaning",
+    "category": "Cleaning",
+    "type": "provider",
+    "website": "brisolacleaning.com",
+    "recommended": true,
+    "source": "Kelly Schumacher Nalitz",
+    "engagement": { "reactions": 3 },
+    "note": "The best. Looking for a few more houses in the area."
+  },
+  {
+    "id": "plumbing-001",
+    "name": "Chris Miller - Handyman",
+    "category": "Plumbing",
+    "type": "provider",
+    "email": "ccmiller634@gmail.com",
+    "recommended": true,
+    "source": "Shanna Davis",
+    "engagement": { "reactions": 12 }
+  },
+  {
+    "id": "plumbing-002",
+    "name": "David McClure",
+    "category": "Plumbing",
+    "type": "lead",
+    "request": "Bathroom plumbing - leaky faucet/toilet running",
+    "engagement": { "comments": 2 }
+  },
+  {
+    "id": "plumbing-003",
+    "name": "Frances Robicsek Furr",
+    "category": "Plumbing",
+    "type": "lead",
+    "request": "Water heater replacement",
+    "engagement": { "reactions": 1, "comments": 9 }
+  },
+  {
+    "id": "electrical-001",
+    "name": "Ted Farino",
+    "category": "Electrician",
+    "type": "lead",
+    "request": "Recessed lighting installation",
+    "engagement": { "comments": 1 }
+  },
+  {
+    "id": "electrical-002",
+    "name": "Vicki Vogt Smith",
+    "category": "Electrician",
+    "type": "lead",
+    "request": "Panel box move",
+    "engagement": { "comments": 6 },
+    "note": "Large commercial-scale job"
+  },
+  {
+    "id": "roofing-001",
+    "name": "Mitten & Company Roofing of South Charlotte",
+    "category": "Roofing",
+    "type": "provider",
+    "website": "mittenandcompany.com",
+    "recommended": true,
+    "source": "Jenna Holland Peede",
+    "engagement": { "reactions": 6 },
+    "note": "Roof tune-up, gutter identification, fair pricing, super professional"
+  },
+  {
+    "id": "locksmith-001",
+    "name": "The One Stop Locksmith",
+    "category": "Locksmith",
+    "type": "provider",
+    "contact": "Vijay Nagpal",
+    "phone": "704-964-8588",
+    "website": "theonestoplocksmith.com",
+    "recommended": true,
+    "source": "Adrienne (neighbor)"
+  },
+  {
+    "id": "pressure-001",
+    "name": "Carson Chadha",
+    "category": "Pressure Washing",
+    "type": "provider",
+    "phone": "980-263-4088",
+    "services": ["Pressure washing", "car washing", "trash can cleaning"],
+    "recommended": true,
+    "engagement": { "reactions": 20 },
+    "note": "Highly recommended, very active"
+  },
+  {
+    "id": "pressure-002",
+    "name": "Abraham (Shack Shine Ballantyne)",
+    "category": "Pressure Washing",
+    "type": "provider",
+    "phone": "704-777-9146"
+  },
+  {
+    "id": "babysitter-001",
+    "name": "Emily Kozakiewicz Trznadel",
+    "category": "Babysitter",
+    "type": "provider",
+    "certifications": ["Red-Cross Certified"],
+    "services": ["Date nights", "board games", "outdoor activities"],
+    "engagement": { "reactions": 7 }
+  },
+  {
+    "id": "babysitter-002",
+    "name": "Millie (Dottie's daughter)",
+    "category": "Babysitter",
+    "type": "provider",
+    "phone": "704-248-1148",
+    "major": "Childhood Development & Family Sciences (Chapel Hill)",
+    "services": ["Childcare", "pool trips", "driving kids to camps/practices"],
+    "engagement": { "reactions": 8 }
+  },
+  {
+    "id": "petsitter-001",
+    "name": "Mollie O'Shea",
+    "category": "Pet Sitter",
+    "type": "provider",
+    "age_grade": "9th grade",
+    "note": "Major animal lover, interested in pet sitting",
+    "contact_via": "Katie Sullivan O'Shea (mother)"
+  },
+  {
+    "id": "tutor-001",
+    "name": "Mary Wright Rantala",
+    "category": "Tutor",
+    "type": "provider",
+    "subjects": ["Math", "Algebra 1 through Calculus"],
+    "email": "rantala.tutoring@gmail.com",
+    "location": "Charlotte / SouthPark area",
+    "availability": "Afternoon/evening",
+    "engagement": { "reactions": 8 },
+    "note": "Works at local school"
+  },
+  {
+    "id": "appliance-001",
+    "name": "Jenna Holland Peede",
+    "category": "Appliance Repair",
+    "type": "lead",
+    "request": "Refrigerator making awful noise",
+    "engagement": { "comments": 8 }
+  },
+  {
+    "id": "appliance-002",
+    "name": "Leighann Scroggins Swanson",
+    "category": "Appliance Repair",
+    "type": "lead",
+    "request": "KitchenAid dishwasher motor burned out",
+    "engagement": { "comments": 7 }
+  },
+  {
+    "id": "garage-001",
+    "name": "Melanie Markey",
+    "category": "Garage Door",
+    "type": "lead",
+    "request": "Garage door wood repair after accident",
+    "engagement": { "comments": 1 }
+  },
+  {
+    "id": "pool-001",
+    "name": "Stephanie Phillips Parker",
+    "category": "Pool",
+    "type": "lead",
+    "request": "Pool renovation - vinyl liner vs gunite salt water vs fill it in",
+    "engagement": { "comments": 15 },
+    "note": "30+ year old vinyl liner pool"
+  },
+  {
+    "id": "tree-001",
+    "name": "Kelly Schumacher Nalitz",
+    "category": "Tree Service",
+    "type": "lead",
+    "request": "Tree service needed (Rhodes not responding)",
+    "engagement": { "comments": 16 },
+    "note": "HIGHEST ENGAGEMENT in tree category"
+  },
+  {
+    "id": "crawlspace-001",
+    "name": "Mary Wright Rantala",
+    "category": "Contractor",
+    "type": "lead",
+    "request": "Crawlspace (insulation + vapor barrier)",
+    "engagement": { "comments": 14 },
+    "note": "Already has Dry Pro quote, wants alternatives"
+  },
+  {
+    "id": "bathroom-001",
+    "name": "Melissa Maree Korten",
+    "category": "Contractor",
+    "type": "lead",
+    "request": "Bathroom renovation",
+    "engagement": { "comments": 12 }
+  },
+  {
+    "id": "bathroom-002",
+    "name": "Claire Nemeth",
+    "category": "Contractor",
+    "type": "lead",
+    "request": "Bathroom renovation - has plan drawn up, moving wall + adding window",
+    "engagement": { "comments": 10 }
+  }
+]
