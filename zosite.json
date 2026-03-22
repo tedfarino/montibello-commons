@@ -1,0 +1,15 @@
+{
+  "name": "montibello-commons",
+  "local_port": 50812,
+  "entrypoint": "bun run dev",
+  "publish": {
+    "label": "montibello-commons",
+    "type": "http",
+    "entrypoint": "bun run prod",
+    "published_port": 50167,
+    "env": {
+      "NODE_ENV": "production",
+      "ZO_CLIENT_IDENTITY_TOKEN": "none"
+    }
+  }
+}
